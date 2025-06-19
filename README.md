@@ -1,12 +1,13 @@
 <div align="center">
 
-# 🌟 Hi there, I'm Vyshnavi! 🌟
+#  Hi there👋, I'm Vyshnavi!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Creative+Developer+✨;🚀+Problem+Solver+🚀;💡+Innovation+Enthusiast+💡;🎯+Building+the+Future+🎯&font=Poppins&center=true&width=600&height=80&duration=3000&pause=500&color=gradient" alt="Typing Animation">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Creative+Developer+✨;🚀+Problem+Solver+🚀;💡+Innovation+Enthusiast+💡;🎯+Aspiring+Software+Engineer+🎯;🌟+Building+the+Future+🌟&font=Poppins&center=true&width=600&height=80&duration=3000&pause=500&color=gradient" alt="Typing Animation">
+</div>
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I'm currently working on exciting projects and expanding my skillset
 - 🌱 I'm always learning and exploring new technologies
@@ -18,7 +19,7 @@
 
 
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
   
@@ -38,13 +39,13 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vyshnavi-12&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📊 Github Stats
+## Github Stats
 
 <div align="center">
 
@@ -53,7 +54,7 @@
 
 </div>
 
-## 🎨 Activity Visualization
+## Activity Visualization
 
 <div align="center">
 
@@ -61,7 +62,7 @@
 
 </div>
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
   
