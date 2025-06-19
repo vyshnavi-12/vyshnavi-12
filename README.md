@@ -44,18 +44,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vyshnavi-12&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
+## 📊 Github Stats
 
-## 📊 My Coding Journey
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vyshnavi-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="Vyshnavi's GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavi-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
 
 </div>
 
-<div align="center">
-
 ## 🎨 Activity Visualization
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyshnavi-12&custom_title=Vyshnavi's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
