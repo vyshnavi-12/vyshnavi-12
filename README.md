@@ -1,20 +1,13 @@
 <div align="center">
 
-#  Hi there, I'm Vyshnavi!
+#  Hi there👋, I'm Vyshnavi!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Creative+Developer+✨;🚀+Problem+Solver+🚀;💡+Innovation+Enthusiast+💡;🎯+Aspiring+Software+Engineer+🎯;🌟+Building+the+Future+🌟&font=Poppins&center=true&width=600&height=80&duration=3000&pause=500&color=gradient" alt="Typing Animation">
 </div>
 
 </div>
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="left"><h2>About Me</h2></td>
-      <td align="right"><img src="https://komarev.com/ghpvc/?username=vyshnavi-12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></td>
-    </tr>
-  </table>
-</div>
+## About Me <img src="https://komarev.com/ghpvc/?username=vyshnavi-12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" align="right" />
 
 - 🔭 I'm currently working on exciting projects and expanding my skillset
 - 🌱 I'm always learning and exploring new technologies
@@ -83,6 +76,6 @@
 
 <div align="center">
   
-**Thank you for visiting my profile! Let's connect and build something amazing together!**
+**Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
 
 </div>
