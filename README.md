@@ -7,7 +7,10 @@
 
 </div>
 
-## About Me
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>About Me</h2>
+  <img src="https://komarev.com/ghpvc/?username=vyshnavi-12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 - 🔭 I'm currently working on exciting projects and expanding my skillset
 - 🌱 I'm always learning and exploring new technologies
@@ -73,10 +76,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vyshnavi-12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 <div align="center">
   
