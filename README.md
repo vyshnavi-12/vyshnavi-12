@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi there👋, I'm Vyshnavi!
+#  Hi there, I'm Vyshnavi!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Creative+Developer+✨;🚀+Problem+Solver+🚀;💡+Innovation+Enthusiast+💡;🎯+Aspiring+Software+Engineer+🎯;🌟+Building+the+Future+🌟&font=Poppins&center=true&width=600&height=80&duration=3000&pause=500&color=gradient" alt="Typing Animation">
 </div>
@@ -76,6 +76,6 @@
 
 <div align="center">
   
-**Thank you for visiting my profile! Let's connect and build something amazing together! 🚀**
+**Thank you for visiting my profile! Let's connect and build something amazing together!**
 
 </div>
